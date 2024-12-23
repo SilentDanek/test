@@ -1,0 +1,115 @@
+{
+  "projects": [
+    {
+      "id": "2d05",
+      "name": "123",
+      "description": "гнг",
+      "taskCount": 0,
+      "status": "Started",
+      "createdAt": "2024-12-22T10:29:52.176Z"
+    },
+    {
+      "id": "807f",
+      "name": "1",
+      "description": "1",
+      "taskCount": 0,
+      "status": "Started",
+      "createdAt": "2024-12-22T14:16:20.840Z"
+    },
+    {
+      "name": "5",
+      "description": "5",
+      "taskCount": 0,
+      "status": "Started",
+      "createdAt": "2024-12-23T12:41:29.314Z",
+      "id": "hf95Tnr"
+    },
+    {
+      "name": "55",
+      "description": "55",
+      "taskCount": 0,
+      "status": "Started",
+      "createdAt": "2024-12-23T12:41:44.592Z",
+      "id": "SMloo8M"
+    },
+    {
+      "name": "123",
+      "description": "877",
+      "taskCount": 0,
+      "status": "Started",
+      "createdAt": "2024-12-26T14:54:30.845Z",
+      "id": "uzyzCLD"
+    },
+    {
+      "name": "qq",
+      "description": "ww",
+      "taskCount": 0,
+      "status": "Started",
+      "createdAt": "2024-12-23T15:37:11.404Z",
+      "id": "blKucFU"
+    },
+    {
+      "name": "4343",
+      "description": "3434",
+      "taskCount": 0,
+      "status": "Started",
+      "createdAt": "2024-12-23T18:15:45.186Z",
+      "id": "9XbJq6H"
+    }
+  ],
+  "tasks": {
+    "uzyzCLD": [
+      {
+        "name": "1",
+        "worker": "Mike",
+        "status": "To Do",
+        "deadline": "2024-12-05",
+        "id": "1"
+      },
+      {
+        "name": "2",
+        "worker": "Dan",
+        "status": "In Progress",
+        "deadline": "2024-12-13",
+        "id": "2"
+      },
+      {
+        "name": "3",
+        "worker": "Slavik",
+        "status": "In Progress",
+        "deadline": "2024-12-05",
+        "id": "3"
+      },
+      {
+        "name": "4",
+        "worker": "Garry",
+        "status": "Done",
+        "deadline": "2024-12-13",
+        "id": "4"
+      },
+      {
+        "name": "5",
+        "worker": "Potter",
+        "status": "Done",
+        "deadline": "2024-12-24",
+        "id": "5"
+      }
+    ],
+    "9XbJq6H": [
+      {
+        "name": "GG",
+        "worker": "Dan",
+        "status": "To Do",
+        "deadline": "2024-12-20",
+        "id": "1"
+      },
+      {
+        "name": "gl hf",
+        "worker": "Garry",
+        "status": "To Do",
+        "deadline": "2024-12-12",
+        "id": "2"
+      }
+    ]
+  }
+}
