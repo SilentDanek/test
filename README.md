@@ -1,5 +1,5 @@
-# Vue 3 + TypeScript + Vite
+Реализовал практически все потставленые задачи кроме перемещения ячеек в 1 секции так как не успел. Сделал дополнительные задачи но с графиками есть баг который так же не успел пофиксить. Он заключается в том что после переключения между страницами не происходит вызов апи с метода onMount.
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Для запуска нужна запустить сервер и потом дев сборку
+node server.js 
+vite
